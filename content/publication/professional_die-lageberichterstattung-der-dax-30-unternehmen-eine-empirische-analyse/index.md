@@ -21,7 +21,7 @@ publication_types: ["2"]
 publication: Zeitschrift für Internationale Rechnungslegung, Vol. 11, No. 1 (2016), 43-49
 publication_short: IRZ
 
-abstract: "Die Prognoseberichterstattung als Teil des Lageberichts reduziert die Informations-asymmetriezwischen Management und Abschlussadressaten.Die gesetzlichen Regelungen hierzu wurden mit dem DRS 20 überarbeitet.Ziel unseres Beitrags ist es, empirisch die Prognosegüte derDAX 30-Unternehmen zu untersuchen, um die Auswirkungen desDRS 20 diesbezüglichzu ermitteln. Wir stellen eine erhöhte Prognosegüteim Zeitablauf fest und identifizieren Verbesserungsbedarf für zukünftigeRegelungen."
+abstract: "Die Prognoseberichterstattung als Teil des Lageberichts reduziert die Informations-asymmetrie zwischen Management und Abschlussadressaten. Die gesetzlichen Regelungen hierzu wurden mit dem DRS 20 überarbeitet. Ziel unseres Beitrags ist es, empirisch die Prognosegüte der DAX 30-Unternehmen zu untersuchen, um die Auswirkungen des DRS 20 diesbezüglich zu ermitteln. Wir stellen eine erhöhte Prognosegüte im Zeitablauf fest und identifizieren Verbesserungsbedarf für zukünftige Regelungen."
 
 # Summary. An optional shortened abstract.
 # summary: 
