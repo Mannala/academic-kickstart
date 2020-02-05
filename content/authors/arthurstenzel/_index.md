@@ -36,7 +36,7 @@ education:
     year: 2017
   - course: Dipl.Ökonom in Business Administration and Economics
     institution: University of Hohenheim
-    year: 03/2012 
+    year: 2012 
 
 
 # Social/Academic Networking
