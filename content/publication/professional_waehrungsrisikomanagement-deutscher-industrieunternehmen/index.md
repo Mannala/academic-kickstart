@@ -1,7 +1,7 @@
 ---
-title: "Währungsrisikomanagement deutscher Industrieunternehmen – Empirische Untersuchung der Praxis"
+title: "Währungsrisikomanagement deutscher Industrieunternehmen – Empirische Untersuchung der Praxis, CF Vol. 6, No. 3 (2015), 47-57"
 authors: [with Andreas Seifen and Dirk Hachmeister]
-# date: "2015-07-10T00:00:00Z"
+date: "2015-03-10T00:00:00Z"
 # doi: "10.2139/ssrn.3174891"
 
 # Schedule page publish date (NOT publication's date).
@@ -10,12 +10,12 @@ authors: [with Andreas Seifen and Dirk Hachmeister]
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent; 9 = Working Paper
-publication_types: ["2"]
+# 7 = Thesis; 8 = Professional Publications; 9 = Working Paper
+publication_types: ["8"]
 
 # Publication name and optional abbreviated publication name.
 publication: Corporate Finance, Vol. 6, No. 3 (2015), 47-57
-# publication_short: 
+publication_short: CF
 
 # abstract: 
 

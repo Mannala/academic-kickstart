@@ -1,9 +1,6 @@
 ---
 title: "Corporate Tax-Rate and Tax-Base Avoidance Trends of U.S. Domestic and U.S. Multinational Firms"
-authors:
-- Terry J. Shevlin
-- Niklas Lampenius
-- Arthur Stenzel
+authors: [with Terry J. Shevlin and Niklas Lampenius]
 date: "2019-04-18T00:00:00Z"
 doi: "10.2139/ssrn.3374548"
 
@@ -13,7 +10,7 @@ doi: "10.2139/ssrn.3374548"
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent; 9 = Working Paper
+# 7 = Thesis; 8 = Professional Publications; 9 = Working Paper
 publication_types: ["9"]
 
 # Publication name and optional abbreviated publication name.

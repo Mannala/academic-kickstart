@@ -1,7 +1,8 @@
 ---
 title: "Kommentierung zu §297 HBG: Inhalt. In: Bilanzrecht, Hrsg: Hachmeister, D.; Kahle, H.; Mock, S.; Schüppen, M., Köln"
 authors: [with Dirk Hachmeister]
-# date: "2017-07-10T00:00:00Z"
+
+date: "2017-12-10T00:00:00Z"
 # doi: "10.2139/ssrn.3174891"
 
 # Schedule page publish date (NOT publication's date).
@@ -10,8 +11,8 @@ authors: [with Dirk Hachmeister]
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent; 9 = Working Paper
-publication_types: ["2"]
+# 7 = Thesis; 8 = Professional Publications; 9 = Working Paper
+publication_types: ["8"]
 
 # Publication name and optional abbreviated publication name.
 # publication: Kapitalmarkt-orientierte Rechnungslegung, Vol. 20, No. 1 (2020), 22-30

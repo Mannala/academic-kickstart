@@ -1,11 +1,6 @@
 ---
 title: "Financial Statement Tax Disclosures and Corporate Innovation"
-authors:
-- Nathan Goldman
-- Niklas Lampenius
-- Suresh Radhakrishnan 
-- Arthur Stenzel
-- Jose Elias Feres de Almeida
+authors: [with Nathan Goldman, Niklas Lampenius, Suresh Radhakrishnan and Jose Elias Feres de Almeida]
 date: "2019-07-10T00:00:00Z"
 doi: "10.2139/ssrn.3174891"
 
@@ -15,7 +10,7 @@ doi: "10.2139/ssrn.3174891"
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent; 9 = Working Paper
+# 7 = Thesis; 8 = Professional Publications; 9 = Working Paper
 publication_types: ["9"]
 categories:
 

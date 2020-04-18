@@ -1,7 +1,7 @@
 ---
-title: "Korruption im Rahmen der Accounting Complicance - Theoretische und empirische Einblicke"
+title: "Korruption im Rahmen der Accounting Complicance - Theoretische und empirische Einblicke, IRZ Vol. 13, No. 7/8 (2018), 313-315"
 authors: [with Tami Dinh and Seraina Früh]
-# date: "2018-07-10T00:00:00Z"
+date: "2018-07-10T00:00:00Z"
 # doi: "10.2139/ssrn.3174891"
 
 # Schedule page publish date (NOT publication's date).
@@ -10,8 +10,8 @@ authors: [with Tami Dinh and Seraina Früh]
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent; 9 = Working Paper
-publication_types: ["2"]
+# 7 = Thesis; 8 = Professional Publications; 9 = Working Paper
+publication_types: ["8"]
 
 # Publication name and optional abbreviated publication name.
 publication: Zeitschrift für Internationale Rechnungslegung, Vol. 13, No. 7/8 (2018), 313-315

@@ -93,7 +93,7 @@ address = {street = "Tigerbergstraße 9", city = "St.Gallen", region = "", postc
 coordinates = {latitude = "47.427806", longitude = "9.372902"}
 
 # Directions for visitors to locate you.
-directions = "Büro 57-105"
+directions = "57-105"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
