@@ -7,8 +7,8 @@ weight = 40  # Order that this section will appear in.
 
 
 <h3>Teaching</h3>
-<ul>
-  <li type="disc">Current Courses:</li>
+<ul text-align: center; list-style: inside>
+<li type="disc">Current Courses:</li>
   <ul>
     <li type="circle">Business Forecasting<br><p style="color:grey;font-size:16px">(Master in Accounting and Finance, University of St.Gallen)</p></li>
     <li type="circle">Selected Topics in Accounting<br><p style="color:grey;font-size:16px">(Master in Accounting and Finance, University of St.Gallen)</p></li>
