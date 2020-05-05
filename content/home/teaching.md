@@ -5,9 +5,9 @@ active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear in.
 +++
 
-
+<div>
 <h3>Teaching</h3>
-<ul text-align: center; list-style: inside>
+<ul>
 <li type="disc">Current Courses:</li>
   <ul>
     <li type="circle">Business Forecasting<br><p style="color:grey;font-size:16px">(Master in Accounting and Finance, University of St.Gallen)</p></li>
@@ -22,3 +22,4 @@ weight = 40  # Order that this section will appear in.
     <li type="circle">A Guide to Applied Empirical Archival Accounting Research<br><p style="color:grey;font-size:16px">(PhD course, University of St.Gallen)</p></li>
   </ul> 
 </ul>
+</div>
