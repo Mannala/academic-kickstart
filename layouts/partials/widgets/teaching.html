@@ -1,7 +1,5 @@
-<div style="margin:1em auto; display:table;">
-    <ul>
-        <li>
-            {{ .page.Content }}
-        </li>
-    </ul>
-</div>
+{{ $ := .root }}
+{{ $page := .page }}
+{{ $autolink := default true $page.Params.autolink }}
+{{ $data := site.Params }}
+

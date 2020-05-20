@@ -1,7 +1,7 @@
 ---
 title: "The Real Effect of Accounting Comparability on Cross-border Investment of Foreign Investors"
 authors: [with Tami Dinh]
-# date: "2017-07-10T00:00:00Z"
+date: "2019-05-30T00:00:00Z"
 # doi: "10.2139/ssrn.3174891"
 
 # Schedule page publish date (NOT publication's date).
@@ -17,7 +17,7 @@ publication_types: ["9"]
 # publication: 
 # publication_short: 
 
-# abstract: 
+abstract: In this paper, we exploit a quasi-experiment that allows us to identify the effect of an increase in comparability between local GAAP and IFRS on cross-border investment of foreign investors. We find that the increase in accounting comparability after a major GAAP reform in Germany in 2010 leads to an economically large average increase in foreign ownership of about 7 percentage points. Moreover, our results suggest that the increase of cross-border investment fosters industry competition. Our large sample evidence based on both listed and unlisted German firms’ annual shareholder information provides important insights on understanding the effect of a shift towards an accounting regulation that is more comparable to international accounting standards. We contribute to prior research on IFRS adoption by showing that increasing the comparability of local GAAP to IFRS has positive real effects.
 
 # Summary. An optional shortened abstract.
 # summary: 

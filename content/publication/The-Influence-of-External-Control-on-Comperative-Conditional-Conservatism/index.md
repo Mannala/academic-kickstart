@@ -1,7 +1,7 @@
 ---
 title: "The Influence of External Control on Comperative Conditional Conservatism in Australian Private and Public Companies under IFRS"
 authors: [with Richard Morris]
-# date: "2018-07-10T00:00:00Z"
+date: "2018-06-01T00:00:00Z"
 # doi: "10.2139/ssrn.3174891"
 
 # Schedule page publish date (NOT publication's date).
