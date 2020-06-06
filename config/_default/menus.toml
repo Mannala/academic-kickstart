@@ -32,7 +32,7 @@
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
  [[main]]
   name = "CV"
-  url = "files/cv.pdf"
+  url = "https://www.dropbox.com/s/zeoodgfy16416m9/Arthur_Stenzel_CV_short.pdf?dl=0"
   weight = 50
 
 # Link to the Homepage of St. Gallen University Institute of Accounting Controlling and Auditing

@@ -3,6 +3,7 @@ title: "Financial Statement Tax Disclosures and Corporate Innovation"
 authors: [with Nathan Goldman, Niklas Lampenius, Suresh Radhakrishnan and Jose Elias Feres de Almeida]
 date: "2019-07-10T00:00:00Z"
 doi: "10.2139/ssrn.3174891"
+View Abstract: 
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: 
@@ -33,10 +34,7 @@ tags:
 featured: true
 
 links:
-- name: SSRN
-  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3174891
 # url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
-# url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
 # url_project: ''
@@ -66,6 +64,3 @@ links:
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-
-
-
