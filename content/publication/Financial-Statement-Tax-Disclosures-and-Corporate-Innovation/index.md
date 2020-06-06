@@ -34,6 +34,8 @@ tags:
 featured: true
 
 links:
+ - name: SSRN
+   url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3174891
 # url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
 # url_dataset: '#'
 # url_poster: '#'
