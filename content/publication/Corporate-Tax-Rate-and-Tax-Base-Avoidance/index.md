@@ -1,5 +1,5 @@
 ---
-title: "The Real Effect of Accounting Comparability on Cross-border Investment of Foreign Investors in Private Firms"
+title: "Corporate Tax-Rate and Tax-Base Avoidance of U.S. Domestic and U.S. Multinational Firms"
 authors: [with Terry J. Shevlin and Niklas Lampenius]
 date: "2019-04-18T00:00:00Z"
 doi: "10.2139/ssrn.3374548"
