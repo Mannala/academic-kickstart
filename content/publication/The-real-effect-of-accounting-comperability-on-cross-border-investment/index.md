@@ -1,5 +1,5 @@
 ---
-title: "The Real Effect of Accounting Comparability on Cross-border Investment of Foreign Investors"
+title: "The Real Effect of Accounting Comparability on Cross-border Investment of Foreign Investors in Private Firms"
 authors: [with Tami Dinh]
 date: "2019-05-30T00:00:00Z"
 # doi: "10.2139/ssrn.3174891"
