@@ -18,7 +18,7 @@ categories:
 # publication: 
 # publication_short: 
 
-# abstract: 
+abstract: "We investigate conditional conservatism in a large sample of Australian private companies that use IFRS. We argue, and find, that if private companies are controlled by another (parent) company, these private companies (subsidiaries) display conditional conservatism. We attribute this to the imposition of the parent's accounting policies on its subsidiary (a) because of demands for conditional conservatism from the parent’s shareholders and debtholders and (b) to monitor the subsidiary more closely where greater information asymmetry exists between parent and subsidiary and/or (c) where the subsidiary contributes more important to group earnings. Such conditional conservatism is mitigated substantially if the parent entity is a family or individual. Controlled private companies exhibit similar conditional conservatism to public companies and significantly more conditional conservatism than independent private companies in Australia. Our results are not influenced significantly by tax minimisation, auditor type or dividend policy."
 
 # Summary. An optional shortened abstract.
 # summary: 

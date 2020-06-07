@@ -25,7 +25,7 @@ academicemployment:
   - course: Assistant Professor of Accounting & Executive Director Ph.D. Programme in Management
     institution: University of St.Gallen, Institute of Accounting, Control and Auditing
     year: 2019 - now
-  - course: Senior Research Fellow & Executive Director Ph.D. Programme in Management
+  - course: Postdoctoral Research Fellow & Executive Director Ph.D. Programme in Management
     institution: University of St.Gallen, Institute of Accounting, Control and Auditing
     year: 2017
 
