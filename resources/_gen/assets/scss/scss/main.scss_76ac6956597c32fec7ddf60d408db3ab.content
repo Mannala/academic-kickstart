@@ -9126,7 +9126,7 @@ div.mermaid {
   padding: 30px 0 30px 0; }
 
 .avatar {
-  width: 405px;
+  width: 324px;
   height: 270px;
   margin: 0 auto;
   object-fit: cover; }
