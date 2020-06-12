@@ -22,15 +22,15 @@ bio:  I am Assistant Professor of Accounting and the University of St.Gallen. My
 
 academicemployment:
   courses:
-  - course: Assistant Professor of Accounting & Vice Director of the Institute of Accounting, Control and Auditing
-    institution: University of St.Gallen, Institute of Accounting, Control and Auditing
-    year: 2019 - now
-  - course: Executive Director Ph.D. Programme in Management
-    institution: University of St.Gallen, Institute of Accounting, Control and Auditing
-    year: 2017 - now
-  - course: Postdoctoral Research Fellow, Chair of Accounting - Prof. Dr. Tami Dinh
-    institution: University of St.Gallen, Institute of Accounting, Control and Auditing
-    year: 2017 - 2019
+  - course: "Assistant Professor of Accounting & <br>Vice Director of the Institute of Accounting, Control and Auditing, <br>School of Management, University of St. Gallen"
+    institution: 2019 - now
+    year: 
+  - course: Executive Director Ph.D. Programme in Management, <br>School of Management, University of St. Gallen
+    institution: 2017 - now
+    year: 
+  - course: Postdoctoral Research Fellow, <br>Chair of Accounting - Prof. Dr. Tami Dinh, <br>Institute of Accounting, Control and Auditing, School of Management, University of St. Gallen
+    institution: 2017 - 2019
+    year: 
 
 education:
   courses:
