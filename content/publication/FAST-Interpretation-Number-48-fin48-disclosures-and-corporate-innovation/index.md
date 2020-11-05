@@ -1,7 +1,7 @@
 ---
-title: "Financial Statement Tax Disclosures and Corporate Innovation"
+title: "FASB Interpretation Number 48 (FIN 48) Disclosures and Corporate Innovation"
 authors: [with Nathan Goldman, Niklas Lampenius, Suresh Radhakrishnan and Jose Elias Feres de Almeida]
-date: "2019-07-10T00:00:00Z"
+date: "2020-11-03T00:00:00Z"
 doi: "10.2139/ssrn.3174891"
 View Abstract: 
 
