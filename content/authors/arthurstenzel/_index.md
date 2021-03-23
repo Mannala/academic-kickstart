@@ -56,6 +56,9 @@ social:
 - icon:  ssrn
   icon_pack: ai
   link: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2113566
+- icon:  ssrn
+  icon_pack: ai
+  link: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2113566
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: cv

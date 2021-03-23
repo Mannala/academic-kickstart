@@ -1,17 +1,17 @@
 ---
-title: "Corporate Tax-Rate and Tax-Base Avoidance of U.S. Domestic and U.S. Multinational Firms"
-authors: [with Terry J. Shevlin and Niklas Lampenius]
-date: "2019-04-18T00:00:00Z"
+title: "Measuring Corporate Tax Rate and Tax Base Avoidance of U.S.Domestic and U.S. Multinational Firms"
+authors: [with Terry J. Shevlin and Niklas Lampenius <br/> Journal of Accounting and Economics. Forthcoming]
+date: "2021-03-18T00:00:00Z"
 doi: "10.2139/ssrn.3374548"
 
 # Schedule page publish date (NOT publication's date).
-# publishDate: 
+ # publishDate: "test"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Professional Publications; 9 = Working Paper
-publication_types: ["9"]
+# 7 = Publications; 8 = Professional Publications; 9 = Working Paper
+publication_types: ["7"]
 
 # Publication name and optional abbreviated publication name.
 # publication: 

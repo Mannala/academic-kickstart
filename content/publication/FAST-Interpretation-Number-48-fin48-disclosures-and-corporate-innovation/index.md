@@ -1,6 +1,6 @@
 ---
 title: "FASB Interpretation Number 48 (FIN 48) Disclosures and Corporate Innovation"
-authors: [with Nathan Goldman, Niklas Lampenius, Suresh Radhakrishnan and Jose Elias Feres de Almeida]
+authors: [with Nathan Goldman, Niklas Lampenius, Suresh Radhakrishnan and Jose Elias Feres de Almeida <br/> Revising for 2nd round submission to Contemporary Accounting Research]
 date: "2020-11-03T00:00:00Z"
 doi: "10.2139/ssrn.3174891"
 View Abstract: 
