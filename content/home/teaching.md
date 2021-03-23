@@ -12,14 +12,12 @@ title = "Teaching"
 +++
 
 <div>
-    <b>Current Courses:</b>
     <ul>
         <li type="circle">Business Forecasting<br><p style="color:grey;font-size:16px">(Fall Semester, Master in Accounting and Finance, University of St.Gallen)</p></li>
         <li type="circle">Selected Topics in Accounting<br><p style="color:grey;font-size:16px">(Fall Semester, Master in Accounting and Finance, University of St.Gallen)</p></li>
         <li type="circle">International Group Accounting<br><p style="color:grey;font-size:16px">(Spring Semester, Master in Accounting and Finance, University of St.Gallen)</p></li>
         <li type="circle">Fundamentals in Accounting<br><p style="color:grey;font-size:16px">(Fall Semester, Master in General Management, University of Neuchâtel)</p></li>
     </ul>
-    <b>Upcoming Courses:</b>
     <ul>
         <li type="circle">A Guide to Applied Empirical Archival Accounting Research<br><p style="color:grey;font-size:16px">(Spring Semester, PhD course, University of St.Gallen)</p></li>
     </ul>

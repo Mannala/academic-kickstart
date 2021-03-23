@@ -17,13 +17,15 @@ publication_types: ["7"]
 # publication: 
 # publication_short: 
 
-abstract: "Recent empirical evidence suggests that domestic firms avoid taxes at least to the same extent as multinational firms. We extend this finding by developing an approach to estimate the average statutory tax rate from publicly available data that implicitly weights all statutory tax rates a firm is exposed to by the corresponding taxable income. Based on this new approach we decompose tax avoidance into two separate components: tax-rate avoidance and tax-base avoidance. We find that U.S. multinational firms make substantial use of tax-rate avoidance, for instance, their foreign average statutory tax rates decrease from 1988 by 0.6 percentage points each year to around 16 percent in 2014. U.S. domestic firms by definition do not take advantage of low tax rates in non-U.S. countries, however, we find that U.S. domestic firms make substantial use of tax-base avoidance and are more effective in tax-base avoidance than U.S. multinational firms. Overall, our findings on tax-rate and tax-base avoidance of U.S. multinational and domestic firms explain the recent evidence that effective tax rates of domestic firms are at least as low as effective tax rates of multinational firms and substantiate existing doubts that multinational firms, in particular, are the most aggressive tax avoiders. "
+abstract: "We develop an approach based on publicly available data to decompose and quantify tax avoidance into two separate components: tax rate avoidance and tax base avoidance. Our measures are based on the average statutory tax rate, which accounts for the statutory tax rates across all transactions of a firm. We illustrate and validate our measures using simulation data, the Tax Reform Act of 1986, the Tax Cuts and Jobs Act of 2017, changes in tax rate avoidance and tax base avoidance across time, bonus depreciation time periods, several sample splits of U.S. multinational and domestic firms, differences across industries, and firms operating in tax haven locations. The measures allow regulators and researchers to gain insights into these two conceptually different tax avoidance strategies."
 
 # Summary. An optional shortened abstract.
 # summary: 
 
 tags:
 - Tax Avoidance
+- Tax Rate Avoidance
+- Tax Base Avoidance
 - Average Statutory Tax Rates
 - Effective Tax Rates
 featured: true
