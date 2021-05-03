@@ -1,7 +1,7 @@
 ---
 title: "Cross-Border Investments in Private Firms"
 authors: [with Kristian D. Allee and Tami Dinh]
-date: "2019-05-30T00:00:00Z"
+date: "2021-05-30T00:00:00Z"
 # doi: "10.2139/ssrn.3174891"
 
 # Schedule page publish date (NOT publication's date).
