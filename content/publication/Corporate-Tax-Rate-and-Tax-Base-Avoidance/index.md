@@ -2,7 +2,7 @@
 title: "Measuring Corporate Tax Rate and Tax Base Avoidance of U.S.Domestic and U.S. Multinational Firms"
 authors: [with Terry J. Shevlin and Niklas Lampenius <br/> Journal of Accounting and Economics. Forthcoming]
 date: "2021-03-18T00:00:00Z"
-doi: "10.2139/ssrn.3374548"
+doi: "10.1016/j.jacceco.2021.101406"
 
 # Schedule page publish date (NOT publication's date).
  # publishDate: "test"
@@ -64,6 +64,7 @@ links:
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
+{{< youtube id="SEPEqh_kFV8" >}}
 
 
 
