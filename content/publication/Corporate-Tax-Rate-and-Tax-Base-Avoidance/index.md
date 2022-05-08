@@ -30,9 +30,9 @@ tags:
 - Effective Tax Rates
 featured: true
 
-links:
-- name: SSRN
-  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3374548
+# links:
+# - name: SSRN
+#   url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3374548
 # url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
 # url_code: '#'
 # url_dataset: '#'
